@@ -1,0 +1,23 @@
+{
+  "name": "automata-theory",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d80ep08th/automata-theory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d80ep08th/automata-theory/issues"
+  },
+  "homepage": "https://github.com/d80ep08th/automata-theory#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
